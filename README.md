@@ -1,0 +1,2 @@
+# MyDictionary
+kadir GÜVENÇ
